@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Amadeu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Amadeu\\.nuget\\packages"
+    ]
+  }
+}
